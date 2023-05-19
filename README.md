@@ -1,5 +1,6 @@
 # 💫About Me :
 Software Developer 
+
 ["JavaScript", "React", "Next", "Laravel"]
 
 ## 🌐Socials
